@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1212-1\\Desktop\\Ivan Karaganchev\\ASP Foods2\\ASP Foods2\\ASP Foods2.csproj": {}
+    "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\ASP Foods2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1212-1\\Desktop\\Ivan Karaganchev\\ASP Foods2\\ASP Foods2\\ASP Foods2.csproj": {
+    "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\ASP Foods2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1212-1\\Desktop\\Ivan Karaganchev\\ASP Foods2\\ASP Foods2\\ASP Foods2.csproj",
+        "projectUniqueName": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\ASP Foods2.csproj",
         "projectName": "ASP Foods2",
-        "projectPath": "C:\\Users\\1212-1\\Desktop\\Ivan Karaganchev\\ASP Foods2\\ASP Foods2\\ASP Foods2.csproj",
-        "packagesPath": "C:\\Users\\1212-1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1212-1\\Desktop\\Ivan Karaganchev\\ASP Foods2\\ASP Foods2\\obj\\",
+        "projectPath": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\ASP Foods2.csproj",
+        "packagesPath": "C:\\Users\\TEACHERS-10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\1212-1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TEACHERS-10\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -57,19 +57,29 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.11, )"
+              "version": "[9.0.12, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[9.0.11, )"
+              "version": "[9.0.12, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.11, )"
+              "version": "[9.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.12, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.11, )"
+              "version": "[9.0.12, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.12, )"
             }
           },
           "imports": [
@@ -91,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

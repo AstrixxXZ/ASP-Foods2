@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\teachers-10\\desktop\\ivankaraganchev12a\\asp-foods2\\asp foods2\\services\\applicationbuilderextension (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\services\\applicationbuilderextension (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\teachers-10\\desktop\\ivankaraganchev12a\\asp-foods2\\asp foods2\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\teachers-10\\desktop\\ivankaraganchev12a\\asp-foods2\\asp foods2\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\teachers-10\\desktop\\ivankaraganchev12a\\asp-foods2\\asp foods2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\teachers-10\\desktop\\ivankaraganchev12a\\asp-foods2\\asp foods2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\teachers-10\\desktop\\ivankaraganchev12a\\asp-foods2\\asp foods2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\teachers-10\\desktop\\ivankaraganchev12a\\asp-foods2\\asp foods2\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\teachers-10\\desktop\\ivankaraganchev12a\\asp-foods2\\asp foods2\\data\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\data\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\teachers-10\\desktop\\ivankaraganchev12a\\asp-foods2\\asp foods2\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\teachers-10\\desktop\\ivankaraganchev12a\\asp-foods2\\asp foods2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\teachers-10\\desktop\\ivankaraganchev12a\\asp-foods2\\asp foods2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\teachers-10\\desktop\\ivankaraganchev12a\\asp-foods2\\asp foods2\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\teachers-10\\desktop\\ivankaraganchev12a\\asp-foods2\\asp foods2\\data\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\data\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ASP Foods2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ASP Foods2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T12:37:37.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationBuilderExtension (1).cs",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Services\\ApplicationBuilderExtension (1).cs",
+              "RelativeDocumentMoniker": "ASP Foods2\\Services\\ApplicationBuilderExtension (1).cs",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Services\\ApplicationBuilderExtension (1).cs",
+              "RelativeToolTip": "ASP Foods2\\Services\\ApplicationBuilderExtension (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T12:26:49.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowIUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:51:32.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Program.cs",
+              "RelativeDocumentMoniker": "ASP Foods2\\Program.cs",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Program.cs",
+              "RelativeToolTip": "ASP Foods2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:29:00.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP Foods2\\appsettings.json",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\appsettings.json",
+              "RelativeToolTip": "ASP Foods2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-23T10:15:35.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T10:51:03.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASP Foods2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ASP Foods2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T12:12:21.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Data\\Order.cs",
+              "RelativeDocumentMoniker": "ASP Foods2\\Data\\Order.cs",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Data\\Order.cs",
+              "RelativeToolTip": "ASP Foods2\\Data\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:52:12.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP Foods2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASP Foods2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T10:29:26.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ASP Foods2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ASP Foods2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:21:39.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Data\\Client.cs",
+              "RelativeDocumentMoniker": "ASP Foods2\\Data\\Client.cs",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Data\\Client.cs",
+              "RelativeToolTip": "ASP Foods2\\Data\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:12:49.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Data\\Cart.cs",
+              "RelativeDocumentMoniker": "ASP Foods2\\Data\\Cart.cs",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Data\\Cart.cs",
+              "RelativeToolTip": "ASP Foods2\\Data\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:12:46.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Data\\Brand.cs",
+              "RelativeDocumentMoniker": "ASP Foods2\\Data\\Brand.cs",
+              "ToolTip": "C:\\Users\\TEACHERS-10\\Desktop\\IvanKaraganchev12A\\ASP-Foods2\\ASP Foods2\\Data\\Brand.cs",
+              "RelativeToolTip": "ASP Foods2\\Data\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:12:40.384Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
