@@ -136,9 +136,10 @@ namespace ASP_Foods2.Areas.Identity.Pages.Account
                     UserName = Input.UserName,
                     FirstName = Input.FirstName,
                     LastName = Input.LastName,
+                    Email = Input.Email,
                     PhoneNumber = Input.Phone
                 };
-                await _userStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
+                await _userStore.SetUserNameAsync(user, Input.UserName, CancellationToken.None);
                 await _emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
                 var result = await _userManager.CreateAsync(user, Input.Password);
 
