@@ -1,7 +1,9 @@
 using ASP_Foods2.Data;
 using ASP_Foods2.Services;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
+using System.Globalization;
 
 namespace ASP_Foods2
 {
@@ -22,9 +24,19 @@ namespace ASP_Foods2
                 .AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
-            builder.Services.AddControllers(op => op.SuppressImplicitRequiredAttributeForNonNullableReferenceTypes = true);//
+            builder.Services.AddControllers(op => op.SuppressImplicitRequiredAttributeForNonNullableReferenceTypes = true);
+
             var app = builder.Build();
             app.PrepareDataBase().Wait();
+
+            // Configure localization to accept both dot and comma as decimal separators
+            var supportedCultures = new[] { new CultureInfo("en-US"), new CultureInfo("bg-BG") };
+            app.UseRequestLocalization(new RequestLocalizationOptions
+            {
+                DefaultRequestCulture = new RequestCulture("en-US"),
+                SupportedCultures = supportedCultures,
+                SupportedUICultures = supportedCultures
+            });
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
