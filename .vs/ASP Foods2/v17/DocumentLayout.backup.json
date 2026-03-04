@@ -3,16 +3,59 @@
   "WorkspaceRootPath": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\controllers\\unitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\controllers\\unitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\controllers\\typeproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\controllers\\typeproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1212-5\\AppData\\Local\\SourceServer\\3304b5b2eebc2b13af6a469b427a9aa5fdfc5f09baf60309b234e045b0f2671b\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\services\\applicationbuilderextension (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\services\\applicationbuilderextension (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,11 +66,12 @@
       "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1212-5\\AppData\\Local\\SourceServer\\3304b5b2eebc2b13af6a469b427a9aa5fdfc5f09baf60309b234e045b0f2671b\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|c:\\users\\1212-5\\desktop\\ivkaraganchev12a-priv\\asp-foods2\\asp foods2\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BC316BC-B792-48F1-B4C4-43542FE41FEE}|ASP Foods2\\ASP Foods2.csproj|solutionrelative:asp foods2\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,31 +90,174 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationBuilderExtension (1).cs",
-              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Services\\ApplicationBuilderExtension (1).cs",
-              "RelativeDocumentMoniker": "ASP Foods2\\Services\\ApplicationBuilderExtension (1).cs",
-              "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Services\\ApplicationBuilderExtension (1).cs",
-              "RelativeToolTip": "ASP Foods2\\Services\\ApplicationBuilderExtension (1).cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAswD4AAAASAAAAAAAAAA==",
+              "Title": "UnitsController.cs",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Controllers\\UnitsController.cs",
+              "RelativeDocumentMoniker": "ASP Foods2\\Controllers\\UnitsController.cs",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Controllers\\UnitsController.cs",
+              "RelativeToolTip": "ASP Foods2\\Controllers\\UnitsController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAuwAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:07:18.118Z",
+              "WhenOpened": "2026-03-04T09:41:53.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypeProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Controllers\\TypeProductsController.cs",
+              "RelativeDocumentMoniker": "ASP Foods2\\Controllers\\TypeProductsController.cs",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Controllers\\TypeProductsController.cs",
+              "RelativeToolTip": "ASP Foods2\\Controllers\\TypeProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:41:09.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ASP Foods2\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ASP Foods2\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:39:20.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ASP Foods2\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ASP Foods2\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:37:05.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "ASP Foods2\\Controllers\\CartsController.cs",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "ASP Foods2\\Controllers\\CartsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:35:12.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "ASP Foods2\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "ASP Foods2\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:34:07.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ASP Foods2\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ASP Foods2\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:33:22.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T08:53:12.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP Foods2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASP Foods2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T08:52:41.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP Foods2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP Foods2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T08:52:12.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ASP Foods2\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ASP Foods2\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAJwBAAAAAAAAAIBJwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-04T08:51:47.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationBuilderExtension (1).cs",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Services\\ApplicationBuilderExtension (1).cs",
+              "RelativeDocumentMoniker": "ASP Foods2\\Services\\ApplicationBuilderExtension (1).cs",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Services\\ApplicationBuilderExtension (1).cs",
+              "RelativeToolTip": "ASP Foods2\\Services\\ApplicationBuilderExtension (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:07:18.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "ASP Foods2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "ASP Foods2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAiwD8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAIBJwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-25T10:02:12.381Z"
+              "WhenOpened": "2026-02-25T10:02:12.381Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "ASP Foods2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
@@ -82,49 +269,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\1212-5\\AppData\\Local\\SourceServer\\3304b5b2eebc2b13af6a469b427a9aa5fdfc5f09baf60309b234e045b0f2671b\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\3304b5b2eebc2b13af6a469b427a9aa5fdfc5f09baf60309b234e045b0f2671b\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ToolTip": "C:\\Users\\1212-5\\AppData\\Local\\SourceServer\\3304b5b2eebc2b13af6a469b427a9aa5fdfc5f09baf60309b234e045b0f2671b\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\3304b5b2eebc2b13af6a469b427a9aa5fdfc5f09baf60309b234e045b0f2671b\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAADwv4gAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAADwv4oAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T09:44:33.412Z"
+              "WhenOpened": "2026-02-25T09:44:33.412Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "ASP Foods2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAALUAAAAAAAAAAAAxwI0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAMIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T09:40:26.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "ASP Foods2\\Views\\Shared\\_LoginPartial.cshtml",
               "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "ASP Foods2\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-25T09:38:40.369Z"
+              "WhenOpened": "2026-02-25T09:38:40.369Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Program.cs",
               "RelativeDocumentMoniker": "ASP Foods2\\Program.cs",
               "ToolTip": "C:\\Users\\1212-5\\Desktop\\IvKaraganchev12A-Priv\\ASP-Foods2\\ASP Foods2\\Program.cs",
               "RelativeToolTip": "ASP Foods2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAABBwDMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T09:26:37.379Z"
             }
