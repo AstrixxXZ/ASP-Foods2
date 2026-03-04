@@ -22,7 +22,7 @@ namespace ASP_Foods2
                 .AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
-
+            builder.Services.AddControllers(op => op.SuppressImplicitRequiredAttributeForNonNullableReferenceTypes = true);//
             var app = builder.Build();
             app.PrepareDataBase().Wait();
 
