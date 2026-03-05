@@ -4,6 +4,7 @@ using ASP_Foods2.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ASP_Foods2.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260305113630_SeedData2")]
+    partial class SeedData2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -37,33 +40,6 @@ namespace ASP_Foods2.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Brands");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Name = "Nature's Way"
-                        },
-                        new
-                        {
-                            Id = 2,
-                            Name = "Doppelherz"
-                        },
-                        new
-                        {
-                            Id = 3,
-                            Name = "BioTechUSA"
-                        },
-                        new
-                        {
-                            Id = 4,
-                            Name = "Jamieson"
-                        },
-                        new
-                        {
-                            Id = 5,
-                            Name = "Walmark"
-                        });
                 });
 
             modelBuilder.Entity("ASP_Foods2.Data.Cart", b =>
@@ -361,33 +337,6 @@ namespace ASP_Foods2.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Units");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Name = "бр."
-                        },
-                        new
-                        {
-                            Id = 2,
-                            Name = "кутия"
-                        },
-                        new
-                        {
-                            Id = 3,
-                            Name = "опаковка"
-                        },
-                        new
-                        {
-                            Id = 4,
-                            Name = "ml"
-                        },
-                        new
-                        {
-                            Id = 5,
-                            Name = "g"
-                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
